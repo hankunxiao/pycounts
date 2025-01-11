@@ -5,7 +5,7 @@ Calculate word counts in a text file!
 ## Installation
 
 ```bash
-pip install pycounts
+pip install -i https://test.pypi.org/simple/ pycounts_hankun_xiao
 ```
 
 ## Usage
@@ -14,8 +14,8 @@ pip install pycounts
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_hankun_xiao.pycounts_hankun_xiao  import count_words
+from pycounts_hankun_xiao.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
