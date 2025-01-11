@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts"
+name = "pycounts_hankun_xiao"
 version = "0.1.0"
 description = "Count Word Frequency"
 authors = ["Hankun Xiao"]
