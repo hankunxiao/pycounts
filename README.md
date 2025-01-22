@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/github/hankunxiao/pycounts/graph/badge.svg?token=TXQV0KA181)](https://codecov.io/github/hankunxiao/pycounts)
+
 # pycounts
 
 Calculate word counts in a text file!
